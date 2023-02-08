@@ -1,0 +1,11 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+.odd {
+    color: black;
+    background-color: pink;
+    font-size: 24px;
+}
